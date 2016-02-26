@@ -1,0 +1,2 @@
+Bonjour, ce fichier texte est le premier fichier de l'activité de la partie deux du cours sur git & github.
+Il sera suivi de deux autres fichiers avec différents commit pour réussir ce module openclassroom.
